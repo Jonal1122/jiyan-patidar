@@ -1,0 +1,7 @@
+INSERT INTO Users (user_id, username, email, followers_count)
+VALUES
+(1, 'jiyan_official', 'jiyan@gmail.com', 1250),
+(2, 'travel_with_riya', 'riya@gmail.com', 8750),
+(3, 'tech_aman', 'aman@gmail.com', 3420);
+
+SELECT * FROM Users;
