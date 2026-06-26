@@ -1,0 +1,3 @@
+SELECT genre, SUM(play_count) AS Total_Plays
+FROM Playlist
+GROUP BY genre;

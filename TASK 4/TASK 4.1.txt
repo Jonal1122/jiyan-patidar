@@ -1,0 +1,17 @@
+CREATE TABLE Playlist (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    song_name VARCHAR(100),
+    artist VARCHAR(100),
+    genre VARCHAR(50),
+    play_count INT
+);
+
+INSERT INTO Playlist (song_name, artist, genre, play_count)
+VALUES
+('Blinding Lights', 'The Weeknd', 'Pop', 1500),
+('Perfect', 'Ed Sheeran', 'Pop', 1200),
+('Believer', 'Imagine Dragons', 'Rock', 1800),
+('Kesariya', 'Arijit Singh', 'Bollywood', 2100),
+('Husn', 'Anuv Jain', 'Indie', 950);
+
+SELECT * FROM Playlist;
