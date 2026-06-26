@@ -1,5 +1,0 @@
-ALTER TABLE restaurants
-ADD average_cost INT;
-
--- Check the updated table
-DESC restaurants;
