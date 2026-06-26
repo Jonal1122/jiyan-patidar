@@ -1,0 +1,26 @@
+		Comparison of Databases
+
+
+	1.MySQL
+	Used for web applications.
+	Fast and open-source.
+	Example: Websites, e-commerce.
+
+
+  	2. PostgreSQL
+	Used for large web apps and data analytics.
+	Advanced and highly reliable.
+	Example: Business applications.
+
+
+		3. Oracle
+	Used for enterprise systems.
+	High security and performance.
+	Example: Banks, hospitals, government.
+   
+
+
+	4.SQLite
+	Used for mobile and desktop apps.
+	Lightweight and serverless.
+	Example: Android apps, small projects.
