@@ -1,9 +1,0 @@
-CREATE TABLE playlists (
-    playlist_id INT AUTO_INCREMENT PRIMARY KEY,
-    title VARCHAR(50),
-    created_by VARCHAR(50),
-    created_at DATE
-);
-
--- Check the table structure
-DESC playlists;
