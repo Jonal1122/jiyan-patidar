@@ -1,0 +1,28 @@
+
+CREATE TABLE influencers (
+    influencer_id INT PRIMARY KEY,
+    name VARCHAR(100)
+);
+CREATE TABLE posts (
+    post_id INT PRIMARY KEY,
+    influencer_id INT,
+    caption VARCHAR(255),
+    FOREIGN KEY (influencer_id) REFERENCES influencers(influencer_id)
+);
+INSERT INTO influencers (influencer_id, name) VALUES
+(1, 'JIYAN'),
+(2, 'RISABH'),
+(3, 'YUVRAJ');
+
+INSERT INTO posts (post_id, influencer_id, caption) VALUES
+(101, 1, 'My first travel vlog'),
+(102, 1, 'Coding every day!'),
+
+(103, 2, 'Morning workout routine'),
+(104, 2, 'Healthy lifestyle tips'),
+
+(105, 3, 'Beauty and skincare secrets'),
+(106, 3, 'Weekend fashion look');
+
+SELECT * FROM influencers;
+SELECT * FROM posts;

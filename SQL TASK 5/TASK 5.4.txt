@@ -1,0 +1,6 @@
+SELECT 
+    IFNULL(influencers.name, 'No Influencer') AS Influencer_Name,
+    posts.caption AS Post_Caption
+FROM influencers
+RIGHT JOIN posts
+ON influencers.influencer_id = posts.influencer_id;
