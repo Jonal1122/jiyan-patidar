@@ -1,0 +1,29 @@
+1. Write the full form and one-line use of: HTTP, HTTPS, FTP, SMTP
+
+ **HTTP:** HyperText Transfer Protocol — opens websites.
+ **HTTPS:** HyperText Transfer Protocol Secure — opens secure websites.
+ **FTP:** File Transfer Protocol — transfers files.
+ **SMTP:** Simple Mail Transfer Protocol — sends emails.
+
+2. What is the difference between IPv4 and IPv6? Answer in 2 lines
+
+   IPv4 uses 32-bit address.
+   IPv6 uses 128-bit address.
+
+3. Run nslookup google.com on your system and write down the IP address you get
+
+   IP example: `142.250.183.206`
+   *(It can be different on your system.)*
+
+4. What do these HTTP status codes mean: 200, 301, 404, 500, 403
+
+ **200:** OK
+ **301:** Moved
+ **404:** Not found
+ **500:** Server error
+ **403:** Forbidden
+
+5. Explain DNS hierarchy (root, TLD, domain, subdomain) with www.google.com as an example
+
+   For `www.google.com`:
+   Root → `.com` → `google.com` → `www`
