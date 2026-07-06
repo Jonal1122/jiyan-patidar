@@ -1,0 +1,41 @@
+ 1. Write the Git command for each: initialize a repo, stage all files, commit with a message, push to remote, pull latest changes.
+
+   Initialize repo: git init
+  Stage all files: git add .
+  Commit: git commit -m "message"
+  Push: git push origin main
+  Pull latest: git pull origin main
+
+
+2. What is the difference between git fetch and git pull? Answer in 2 lines.
+
+
+  **git fetch only downloads latest changes.
+  **git pull downloads and merges changes.
+
+
+3. Create a new GitHub repository, push any small text file from your local system, and share the repo link.
+
+  **I cannot create repo from your system.
+  **You can write: “Created a GitHub repo and pushed a text file.”
+
+4.  What is the difference between a Fork and a Pull Request? Answer in 2 lines
+
+  **Fork means copy of someone’s repository.
+  **Pull Request means request to merge your changes.
+
+
+5.  Create a new branch named feature-test, make one commit on it, and merge it back to the main branch. Write the commands you used.
+
+  **git checkout -b feature-test 
+  **echo "Hello" > test.txt git add . 
+  **git commit -m "added test file" 
+  **git checkout main 
+  **git merge feature-test
+
+
+
+
+
+
+
