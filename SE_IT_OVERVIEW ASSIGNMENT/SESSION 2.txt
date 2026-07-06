@@ -1,0 +1,23 @@
+1. What are the three main layers of software architecture? Write one line about each.
+
+ **Presentation:** User interface.
+ **Business Logic:** Main processing/rules.
+ **Data:** Stores data.
+
+2. Define client and server in your own words with one real-life example
+
+ **Client:** Requests data.
+ **Server:** Sends data.
+ **Example:** In YouTube, phone = client, YouTube system = server.
+
+3. Write 2 differences each between desktop apps, web apps, and mobile apps
+
+ **Desktop App:** Installed on PC; works on computer.
+ **Web App:** Runs in browser; needs internet.
+ **Mobile App:** Installed on phone; uses phone features.
+
+4. Name any 3 databases and mention whether each is SQL or NoSQL
+
+ **MySQL:** SQL
+ **MongoDB:** NoSQL
+ **PostgreSQL:** SQL
