@@ -1,0 +1,33 @@
+1. Name 5 IT job roles and write one line about what each role does.
+
+* Developer: Builds software/apps.
+* Tester: Finds bugs in software.
+* Web Developer: Creates websites.
+* Database Admin: Manages databases.
+* Network Engineer: Manages computer networks.
+
+2. List 3 product companies and 3 service companies with one example of work each does.
+
+* Product: Google — Search/Gmail, Microsoft — Windows, Apple — iPhone.
+* Service: TCS — IT services, Infosys — software services, Wipro — cloud/IT services.
+
+3. Write the full forms and one-line use of: GitHub, Slack, Jira, IDE, API
+
+* GitHub: No full form — stores code online.
+* Slack: No full form — team chat.
+* Jira: No full form — tracks tasks/bugs.
+* IDE: Integrated Development Environment — coding tool.
+* API: Application Programming Interface — connects apps.
+
+4. Name any 5 programming languages and mention one popular use case for each
+
+* C: System programming.
+* C++: Games/software.
+* Java: Android apps.
+* Python: AI/automation.
+* JavaScript: Websites.
+
+5. What is the difference between a developer and a tester? Answer in 2 lines
+   
+   *Developer makes software.
+   *Tester checks software for bugs.
