@@ -1,0 +1,57 @@
+1. What is a Program?
+
+A program is a set of instructions written in a programming language to perform a specific task on a 
+computer or mobile device. For example, in Paytm, when we enter an amount and click on “Pay,” the 
+program checks the balance, verifies details, and completes the payment.
+
+
+
+2.  Three programing language 
+ Language | Type                          
+
+ C++      | Compiled                      
+ Python   | Interpreted                   
+ Java     | Both compiled and interpreted 
+
+
+
+3.Flowchart: BookMyShow Movie Ticket Booking
+
+Start
+  ↓
+Open BookMyShow App
+  ↓
+Select City
+  ↓
+Choose Movie
+  ↓
+Select Date and Time
+  ↓
+Choose Cinema
+  ↓
+Select Seats
+  ↓
+Confirm Booking
+  ↓
+Make Payment
+  ↓
+Payment Successful?
+  ↓
+Yes → Receive Booking Confirmation
+  ↓
+End
+
+
+
+4. Algorithm: Ordering Food on Swiggy
+
+1. Open the Swiggy app.
+2. Enter or select your delivery location.
+3. Search for a restaurant or food item.
+4. Select the food item you want to order.
+5. Add the item to the cart.
+6. Check the total amount and delivery address.
+7. Apply coupon if available.
+8. Choose a payment method.
+9. Complete the payment.
+10. Receive order confirmation.
